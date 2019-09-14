@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon.jpg                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : MyExpenses                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free with subscription                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Spendings under your control.
+app_description                           : Spendings under your control
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -22,7 +22,7 @@ enable_smart_app_banner                   : true                                
 your_name                                 : Marek Pridal                                
 your_link                                 : https://marekpridal.eu                     
 your_city                                 : Prague                                
-email_address                             : marek@marekpridal.eu
+email_address                             : marek@myexpenses.cz
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : marekpridal
